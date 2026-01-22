@@ -1,4 +1,4 @@
-Hi whatsapp guys what are u doing.
+Hello from branch 2
 This line is from feature branch
 This is another line from branch
 Hello
