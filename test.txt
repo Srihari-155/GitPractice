@@ -2,4 +2,3 @@ Hello from branch 1 and branch 2
 This line is from feature branch
 This is another line from branch
 Hello
-Hi
